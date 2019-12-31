@@ -1,4 +1,4 @@
-module infra
+module github.com/xzk-adslen/infra
 
 go 1.13
 
@@ -6,6 +6,7 @@ require (
 	dmitri.shuralyov.com/route/github v0.0.0-20191123213020-a7795e5a0797 // indirect
 	github.com/AaronO/go-git-http v0.0.0-20161214145340-1d9485b3a98f // indirect
 	github.com/DataDog/datadog-go v3.3.1+incompatible // indirect
+	github.com/Unknwon/log v0.0.0-20150304194804-e617c87089d3 // indirect
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
 	github.com/aclements/go-gg v0.0.0-20170323211221-abd1f791f5ee // indirect
 	github.com/aclements/go-moremath v0.0.0-20190830160640-d16893ddf098 // indirect
@@ -48,6 +49,7 @@ require (
 	github.com/garyburd/redigo v1.6.0 // indirect
 	github.com/gin-gonic/gin v1.5.0 // indirect
 	github.com/go-chi/chi v4.0.2+incompatible // indirect
+	github.com/go-ini/ini v1.51.1 // indirect
 	github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab // indirect
 	github.com/go-playground/form v3.1.4+incompatible // indirect
 	github.com/go-playground/pure v4.2.0+incompatible // indirect
@@ -65,6 +67,7 @@ require (
 	github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9 // indirect
 	github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9 // indirect
 	github.com/google/pprof v0.0.0-20191218002539-d4f498aebedc // indirect
+	github.com/google/uuid v1.1.1 // indirect
 	github.com/googleapis/gax-go v2.0.2+incompatible // indirect
 	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/graph-gophers/graphql-go v0.0.0-20191115155744-f33e81362277 // indirect
@@ -77,6 +80,7 @@ require (
 	github.com/inconshreveable/log15 v0.0.0-20180818164646-67afb5ed74ec // indirect
 	github.com/influxdata/influxdb1-client v0.0.0-20191209144304-8bf82d3c094d // indirect
 	github.com/jessevdk/go-flags v1.4.0 // indirect
+	github.com/json-iterator/go v1.1.9 // indirect
 	github.com/jung-kurt/gofpdf v1.16.2 // indirect
 	github.com/justinas/alice v1.2.0 // indirect
 	github.com/lightstep/lightstep-tracer-go v0.18.1 // indirect
@@ -141,6 +145,7 @@ require (
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	golang.org/x/tools v0.0.0-20191230220329-2aa90c603ae3 // indirect
 	google.golang.org/api v0.15.0 // indirect
+	google.golang.org/genproto v0.0.0-20191230161307-f3c370f40bfb // indirect
 	google.golang.org/grpc v1.26.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 	gopkg.in/gcfg.v1 v1.2.3 // indirect
